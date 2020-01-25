@@ -1,0 +1,10 @@
+C:\Users\borim\source\repos\Fundamentals new\Arrays - Lab\Print Numbers in Reverse\Print Numbers in Reverse\bin\Debug\netcoreapp2.1\Print Numbers in Reverse.deps.json
+C:\Users\borim\source\repos\Fundamentals new\Arrays - Lab\Print Numbers in Reverse\Print Numbers in Reverse\bin\Debug\netcoreapp2.1\Print Numbers in Reverse.runtimeconfig.json
+C:\Users\borim\source\repos\Fundamentals new\Arrays - Lab\Print Numbers in Reverse\Print Numbers in Reverse\bin\Debug\netcoreapp2.1\Print Numbers in Reverse.runtimeconfig.dev.json
+C:\Users\borim\source\repos\Fundamentals new\Arrays - Lab\Print Numbers in Reverse\Print Numbers in Reverse\bin\Debug\netcoreapp2.1\Print Numbers in Reverse.dll
+C:\Users\borim\source\repos\Fundamentals new\Arrays - Lab\Print Numbers in Reverse\Print Numbers in Reverse\bin\Debug\netcoreapp2.1\Print Numbers in Reverse.pdb
+C:\Users\borim\source\repos\Fundamentals new\Arrays - Lab\Print Numbers in Reverse\Print Numbers in Reverse\obj\Debug\netcoreapp2.1\Print Numbers in Reverse.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\Arrays - Lab\Print Numbers in Reverse\Print Numbers in Reverse\obj\Debug\netcoreapp2.1\Print Numbers in Reverse.AssemblyInfoInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\Arrays - Lab\Print Numbers in Reverse\Print Numbers in Reverse\obj\Debug\netcoreapp2.1\Print Numbers in Reverse.AssemblyInfo.cs
+C:\Users\borim\source\repos\Fundamentals new\Arrays - Lab\Print Numbers in Reverse\Print Numbers in Reverse\obj\Debug\netcoreapp2.1\Print Numbers in Reverse.dll
+C:\Users\borim\source\repos\Fundamentals new\Arrays - Lab\Print Numbers in Reverse\Print Numbers in Reverse\obj\Debug\netcoreapp2.1\Print Numbers in Reverse.pdb

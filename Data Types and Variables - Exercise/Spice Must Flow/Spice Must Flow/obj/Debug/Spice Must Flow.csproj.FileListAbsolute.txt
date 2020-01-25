@@ -1,0 +1,7 @@
+C:\Users\borim\source\repos\Spice Must Flow\Spice Must Flow\bin\Debug\Spice Must Flow.exe.config
+C:\Users\borim\source\repos\Spice Must Flow\Spice Must Flow\bin\Debug\Spice Must Flow.exe
+C:\Users\borim\source\repos\Spice Must Flow\Spice Must Flow\bin\Debug\Spice Must Flow.pdb
+C:\Users\borim\source\repos\Spice Must Flow\Spice Must Flow\obj\Debug\Spice Must Flow.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Spice Must Flow\Spice Must Flow\obj\Debug\Spice Must Flow.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Spice Must Flow\Spice Must Flow\obj\Debug\Spice Must Flow.exe
+C:\Users\borim\source\repos\Spice Must Flow\Spice Must Flow\obj\Debug\Spice Must Flow.pdb

@@ -1,0 +1,6 @@
+C:\Users\borim\source\repos\Array Rotation\Array Rotation\bin\Debug\Array Rotation.exe.config
+C:\Users\borim\source\repos\Array Rotation\Array Rotation\bin\Debug\Array Rotation.exe
+C:\Users\borim\source\repos\Array Rotation\Array Rotation\bin\Debug\Array Rotation.pdb
+C:\Users\borim\source\repos\Array Rotation\Array Rotation\obj\Debug\Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Array Rotation\Array Rotation\obj\Debug\Array Rotation.exe
+C:\Users\borim\source\repos\Array Rotation\Array Rotation\obj\Debug\Array Rotation.pdb

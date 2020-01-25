@@ -1,0 +1,7 @@
+C:\Users\borim\source\repos\Beer Kegs\Beer Kegs\bin\Debug\Beer Kegs.exe.config
+C:\Users\borim\source\repos\Beer Kegs\Beer Kegs\bin\Debug\Beer Kegs.exe
+C:\Users\borim\source\repos\Beer Kegs\Beer Kegs\bin\Debug\Beer Kegs.pdb
+C:\Users\borim\source\repos\Beer Kegs\Beer Kegs\obj\Debug\Beer Kegs.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Beer Kegs\Beer Kegs\obj\Debug\Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Beer Kegs\Beer Kegs\obj\Debug\Beer Kegs.exe
+C:\Users\borim\source\repos\Beer Kegs\Beer Kegs\obj\Debug\Beer Kegs.pdb

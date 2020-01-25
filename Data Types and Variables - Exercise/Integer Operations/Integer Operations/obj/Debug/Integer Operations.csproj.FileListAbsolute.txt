@@ -1,0 +1,7 @@
+C:\Users\borim\source\repos\Integer Operations\Integer Operations\bin\Debug\Integer Operations.exe.config
+C:\Users\borim\source\repos\Integer Operations\Integer Operations\bin\Debug\Integer Operations.exe
+C:\Users\borim\source\repos\Integer Operations\Integer Operations\bin\Debug\Integer Operations.pdb
+C:\Users\borim\source\repos\Integer Operations\Integer Operations\obj\Debug\Integer Operations.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Integer Operations\Integer Operations\obj\Debug\Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Integer Operations\Integer Operations\obj\Debug\Integer Operations.exe
+C:\Users\borim\source\repos\Integer Operations\Integer Operations\obj\Debug\Integer Operations.pdb

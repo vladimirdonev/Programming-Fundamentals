@@ -1,0 +1,7 @@
+C:\Users\borim\source\repos\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\Print Part Of ASCII Table.exe.config
+C:\Users\borim\source\repos\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\Print Part Of ASCII Table.exe
+C:\Users\borim\source\repos\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\Print Part Of ASCII Table.pdb
+C:\Users\borim\source\repos\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\Print Part Of ASCII Table.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\Print Part Of ASCII Table.exe
+C:\Users\borim\source\repos\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\Print Part Of ASCII Table.pdb

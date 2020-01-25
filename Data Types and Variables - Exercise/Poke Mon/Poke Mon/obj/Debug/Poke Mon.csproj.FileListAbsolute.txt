@@ -1,0 +1,7 @@
+C:\Users\borim\source\repos\Poke Mon\Poke Mon\bin\Debug\Poke Mon.exe.config
+C:\Users\borim\source\repos\Poke Mon\Poke Mon\bin\Debug\Poke Mon.exe
+C:\Users\borim\source\repos\Poke Mon\Poke Mon\bin\Debug\Poke Mon.pdb
+C:\Users\borim\source\repos\Poke Mon\Poke Mon\obj\Debug\Poke Mon.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Poke Mon\Poke Mon\obj\Debug\Poke Mon.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Poke Mon\Poke Mon\obj\Debug\Poke Mon.exe
+C:\Users\borim\source\repos\Poke Mon\Poke Mon\obj\Debug\Poke Mon.pdb

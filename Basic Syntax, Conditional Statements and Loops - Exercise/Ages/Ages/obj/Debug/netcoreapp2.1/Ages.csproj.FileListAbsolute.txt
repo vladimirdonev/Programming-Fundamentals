@@ -1,0 +1,10 @@
+C:\Users\borim\source\repos\Fundamentals new\Basic Syntax, Conditional Statements and Loops - Lab\Ages\Ages\bin\Debug\netcoreapp2.1\Ages.deps.json
+C:\Users\borim\source\repos\Fundamentals new\Basic Syntax, Conditional Statements and Loops - Lab\Ages\Ages\bin\Debug\netcoreapp2.1\Ages.runtimeconfig.json
+C:\Users\borim\source\repos\Fundamentals new\Basic Syntax, Conditional Statements and Loops - Lab\Ages\Ages\bin\Debug\netcoreapp2.1\Ages.runtimeconfig.dev.json
+C:\Users\borim\source\repos\Fundamentals new\Basic Syntax, Conditional Statements and Loops - Lab\Ages\Ages\bin\Debug\netcoreapp2.1\Ages.dll
+C:\Users\borim\source\repos\Fundamentals new\Basic Syntax, Conditional Statements and Loops - Lab\Ages\Ages\bin\Debug\netcoreapp2.1\Ages.pdb
+C:\Users\borim\source\repos\Fundamentals new\Basic Syntax, Conditional Statements and Loops - Lab\Ages\Ages\obj\Debug\netcoreapp2.1\Ages.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\Basic Syntax, Conditional Statements and Loops - Lab\Ages\Ages\obj\Debug\netcoreapp2.1\Ages.AssemblyInfoInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\Basic Syntax, Conditional Statements and Loops - Lab\Ages\Ages\obj\Debug\netcoreapp2.1\Ages.AssemblyInfo.cs
+C:\Users\borim\source\repos\Fundamentals new\Basic Syntax, Conditional Statements and Loops - Lab\Ages\Ages\obj\Debug\netcoreapp2.1\Ages.dll
+C:\Users\borim\source\repos\Fundamentals new\Basic Syntax, Conditional Statements and Loops - Lab\Ages\Ages\obj\Debug\netcoreapp2.1\Ages.pdb

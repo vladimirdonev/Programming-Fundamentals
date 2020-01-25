@@ -1,0 +1,7 @@
+C:\Users\borim\source\repos\Common Elements\Common Elements\bin\Debug\Common Elements.exe.config
+C:\Users\borim\source\repos\Common Elements\Common Elements\bin\Debug\Common Elements.exe
+C:\Users\borim\source\repos\Common Elements\Common Elements\bin\Debug\Common Elements.pdb
+C:\Users\borim\source\repos\Common Elements\Common Elements\obj\Debug\Common Elements.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Common Elements\Common Elements\obj\Debug\Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Common Elements\Common Elements\obj\Debug\Common Elements.exe
+C:\Users\borim\source\repos\Common Elements\Common Elements\obj\Debug\Common Elements.pdb

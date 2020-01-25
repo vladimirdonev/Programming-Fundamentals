@@ -1,0 +1,7 @@
+C:\Users\borim\source\repos\Sum of Chars\Sum of Chars\bin\Debug\Sum of Chars.exe.config
+C:\Users\borim\source\repos\Sum of Chars\Sum of Chars\bin\Debug\Sum of Chars.exe
+C:\Users\borim\source\repos\Sum of Chars\Sum of Chars\bin\Debug\Sum of Chars.pdb
+C:\Users\borim\source\repos\Sum of Chars\Sum of Chars\obj\Debug\Sum of Chars.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Sum of Chars\Sum of Chars\obj\Debug\Sum of Chars.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Sum of Chars\Sum of Chars\obj\Debug\Sum of Chars.exe
+C:\Users\borim\source\repos\Sum of Chars\Sum of Chars\obj\Debug\Sum of Chars.pdb

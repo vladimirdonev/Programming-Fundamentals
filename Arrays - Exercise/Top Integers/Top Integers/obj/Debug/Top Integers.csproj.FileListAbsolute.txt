@@ -1,0 +1,7 @@
+C:\Users\borim\source\repos\Top Integers\Top Integers\bin\Debug\Top Integers.exe.config
+C:\Users\borim\source\repos\Top Integers\Top Integers\bin\Debug\Top Integers.exe
+C:\Users\borim\source\repos\Top Integers\Top Integers\bin\Debug\Top Integers.pdb
+C:\Users\borim\source\repos\Top Integers\Top Integers\obj\Debug\Top Integers.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Top Integers\Top Integers\obj\Debug\Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Top Integers\Top Integers\obj\Debug\Top Integers.exe
+C:\Users\borim\source\repos\Top Integers\Top Integers\obj\Debug\Top Integers.pdb

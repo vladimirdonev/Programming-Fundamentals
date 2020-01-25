@@ -1,0 +1,7 @@
+C:\Users\borim\source\repos\Snowballs\Snowballs\bin\Debug\Snowballs.exe.config
+C:\Users\borim\source\repos\Snowballs\Snowballs\bin\Debug\Snowballs.exe
+C:\Users\borim\source\repos\Snowballs\Snowballs\bin\Debug\Snowballs.pdb
+C:\Users\borim\source\repos\Snowballs\Snowballs\obj\Debug\Snowballs.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Snowballs\Snowballs\obj\Debug\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Snowballs\Snowballs\obj\Debug\Snowballs.exe
+C:\Users\borim\source\repos\Snowballs\Snowballs\obj\Debug\Snowballs.pdb

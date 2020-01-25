@@ -1,0 +1,6 @@
+C:\Users\borim\source\repos\Water Overflow\Water Overflow\bin\Debug\Water Overflow.exe.config
+C:\Users\borim\source\repos\Water Overflow\Water Overflow\bin\Debug\Water Overflow.exe
+C:\Users\borim\source\repos\Water Overflow\Water Overflow\bin\Debug\Water Overflow.pdb
+C:\Users\borim\source\repos\Water Overflow\Water Overflow\obj\Debug\Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Water Overflow\Water Overflow\obj\Debug\Water Overflow.exe
+C:\Users\borim\source\repos\Water Overflow\Water Overflow\obj\Debug\Water Overflow.pdb
