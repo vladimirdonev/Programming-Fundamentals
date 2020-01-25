@@ -1,0 +1,11 @@
+C:\Users\borim\source\repos\Fundamentals new\Programming-Fundamentals\Final Exam\Nikulden’s Charity\Nikulden’s Charity\bin\Debug\netcoreapp2.1\Nikulden’s Charity.deps.json
+C:\Users\borim\source\repos\Fundamentals new\Programming-Fundamentals\Final Exam\Nikulden’s Charity\Nikulden’s Charity\bin\Debug\netcoreapp2.1\Nikulden’s Charity.runtimeconfig.json
+C:\Users\borim\source\repos\Fundamentals new\Programming-Fundamentals\Final Exam\Nikulden’s Charity\Nikulden’s Charity\bin\Debug\netcoreapp2.1\Nikulden’s Charity.runtimeconfig.dev.json
+C:\Users\borim\source\repos\Fundamentals new\Programming-Fundamentals\Final Exam\Nikulden’s Charity\Nikulden’s Charity\bin\Debug\netcoreapp2.1\Nikulden’s Charity.dll
+C:\Users\borim\source\repos\Fundamentals new\Programming-Fundamentals\Final Exam\Nikulden’s Charity\Nikulden’s Charity\bin\Debug\netcoreapp2.1\Nikulden’s Charity.pdb
+C:\Users\borim\source\repos\Fundamentals new\Programming-Fundamentals\Final Exam\Nikulden’s Charity\Nikulden’s Charity\obj\Debug\netcoreapp2.1\Nikulden’s Charity.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Fundamentals new\Programming-Fundamentals\Final Exam\Nikulden’s Charity\Nikulden’s Charity\obj\Debug\netcoreapp2.1\Nikulden’s Charity.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\Programming-Fundamentals\Final Exam\Nikulden’s Charity\Nikulden’s Charity\obj\Debug\netcoreapp2.1\Nikulden’s Charity.AssemblyInfoInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\Programming-Fundamentals\Final Exam\Nikulden’s Charity\Nikulden’s Charity\obj\Debug\netcoreapp2.1\Nikulden’s Charity.AssemblyInfo.cs
+C:\Users\borim\source\repos\Fundamentals new\Programming-Fundamentals\Final Exam\Nikulden’s Charity\Nikulden’s Charity\obj\Debug\netcoreapp2.1\Nikulden’s Charity.dll
+C:\Users\borim\source\repos\Fundamentals new\Programming-Fundamentals\Final Exam\Nikulden’s Charity\Nikulden’s Charity\obj\Debug\netcoreapp2.1\Nikulden’s Charity.pdb
